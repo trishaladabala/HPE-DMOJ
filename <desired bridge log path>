@@ -1,0 +1,34 @@
+INFO 2025-06-28 14:14:36,150 judge_handler Judge connected from: ('127.0.0.1', 59968)
+INFO 2025-06-28 14:14:36,277 base_handler Disconnecting client due to too-large message size (1195725856 bytes): ('127.0.0.1', 59968)
+INFO 2025-06-28 14:14:36,279 judge_handler Judge disconnected from: ('127.0.0.1', 59968) with name None
+INFO 2025-06-28 14:14:36,357 judge_handler Judge connected from: ('127.0.0.1', 59976)
+INFO 2025-06-28 14:14:36,359 base_handler Disconnecting client due to too-large message size (1195725856 bytes): ('127.0.0.1', 59976)
+INFO 2025-06-28 14:14:36,359 judge_handler Judge disconnected from: ('127.0.0.1', 59976) with name None
+INFO 2025-06-28 14:14:36,389 judge_handler Judge connected from: ('127.0.0.1', 59980)
+INFO 2025-06-28 14:14:36,389 base_handler Disconnecting client due to too-large message size (1195725856 bytes): ('127.0.0.1', 59980)
+INFO 2025-06-28 14:14:36,390 judge_handler Judge disconnected from: ('127.0.0.1', 59980) with name None
+INFO 2025-06-28 14:14:36,422 judge_handler Judge connected from: ('127.0.0.1', 59992)
+INFO 2025-06-28 14:14:36,423 base_handler Disconnecting client due to too-large message size (1195725856 bytes): ('127.0.0.1', 59992)
+INFO 2025-06-28 14:14:36,423 judge_handler Judge disconnected from: ('127.0.0.1', 59992) with name None
+INFO 2025-06-28 14:18:27,874 daemon Exiting due to SIGINT
+INFO 2025-06-28 14:19:02,465 daemon Exiting due to SIGINT
+INFO 2025-06-28 14:19:30,623 daemon Exiting due to SIGINT
+INFO 2025-06-28 14:33:36,315 daemon Exiting due to SIGINT
+INFO 2025-06-28 15:04:08,847 judge_handler Judge connected from: ('127.0.0.1', 48172)
+INFO 2025-06-28 15:04:08,854 judge_handler Judge authenticated: ('127.0.0.1', 48172) (Trishal)
+INFO 2025-06-28 15:57:50,647 judge_handler Trishal: Updated problem list
+INFO 2025-06-28 15:57:50,774 judge_handler Trishal: Updated problem list
+INFO 2025-06-28 15:57:50,783 judge_handler Trishal: Updated problem list
+INFO 2025-06-28 16:08:51,288 judge_handler Trishal: Updated problem list
+INFO 2025-06-28 16:14:36,549 judge_list Specified judge Trishal is available
+INFO 2025-06-28 16:14:36,550 judge_list Dispatched submission 1 to: Trishal
+INFO 2025-06-28 16:14:36,564 judge_handler Submission acknowledged: 1
+INFO 2025-06-28 16:14:36,787 judge_handler Trishal: Updated problem list
+INFO 2025-06-28 16:14:36,795 judge_handler Trishal: Updated problem list
+INFO 2025-06-28 16:14:37,625 judge_handler Trishal: Submission generated compiler messages: 1
+INFO 2025-06-28 16:14:37,668 judge_handler Trishal: Grading has begun on: 1
+INFO 2025-06-28 16:14:37,910 judge_handler Trishal: 1 test case(s) completed on: 1
+INFO 2025-06-28 16:14:38,152 judge_handler Trishal: 2 test case(s) completed on: 1
+INFO 2025-06-28 16:14:38,190 judge_handler Trishal: Grading has ended on: 1
+INFO 2025-06-28 16:14:38,191 judge_list Judge available after grading 1: Trishal
+INFO 2025-06-28 16:14:38,304 judge_handler Trishal: Updated problem list
